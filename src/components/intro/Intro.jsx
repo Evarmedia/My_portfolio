@@ -27,8 +27,8 @@ const Intro = () => {
               <small>15+ Completed Projects</small>
             </article>
           </div>
-          <p>I am a dynamic and dedicated frontend web developer with a passion for crafting visually appealing and intuitive user experiences. With a strong aesthetic sense and a keen eye for detail, I pride myself on creating websites that seamlessly blend form and function.
-With expertise in cutting-edge tools and frameworks such as React and Angular. I'm able to to bring ideas to life, converting visions into interactive and engaging online spaces.
+          <p>I am a dynamic and dedicated frontend web developer with a passion for crafting visually appealing and intuitive user experiences. With a strong aesthetic sense and a keen eye for details, I pride myself on creating websites that seamlessly blend form and function.
+With expertise in cutting-edge tools and frameworks such as React and Angular. I'm able to bring ideas to life, converting visions into interactive and engaging online spaces.
 </p>
           <a href="#contact" className="btn btn-primary">Say hi</a>
         </div>
