@@ -1,17 +1,9 @@
-# Personal-Portfolio
 > This is personal portfolio website.
-
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
-
 ## Built With
 
 - React
 - CSS
 - VS code
-
-## Live Demo
-
-- [Live Demo](https://meri-mg-portfolio.netlify.app/)
 
 
 # Getting Started
@@ -43,19 +35,6 @@
 - ```
   npm start
   ```
-
-
-## Author
-
-:woman: **Meri Gogichashvili**
-
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
-
-## 🤝 Contributing
-- Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
-
 # Show your support
 Give a ⭐ if you like this project!
 
