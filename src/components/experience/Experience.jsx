@@ -1,12 +1,11 @@
 import React from 'react';
-import './experience.css';
 import Skills from './Skills';
+import './experience.css';
 // import Skills from './components/experience/Skill';
 
 const Experience = () => {
   return (
     <section id="experience">
-      <h5>The Skills I Have</h5>
       <h2>Skills</h2>
 
       <div className="container experience__container">
@@ -46,6 +45,7 @@ const Experience = () => {
             <Skills skill="Chess"/>
             <Skills skill="Git/Github"/>
             <Skills skill="General IT skills"/>
+            <Skills skill="NoSQL"/>
           </div>
         </div>
       </div>
